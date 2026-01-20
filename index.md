@@ -1,3 +1,4 @@
+# Using Headings
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -5,4 +6,6 @@
 ##### Heading 5
 ###### Heading 6
 
-Wrote text in the index.md file
+
+# Adding Images
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
